@@ -1,1 +1,1 @@
-# git_pull
+# git_clone
